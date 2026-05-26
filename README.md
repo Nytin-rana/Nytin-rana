@@ -1,10 +1,17 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Nitin Rana and I'm a iOS App Developer & AI ML Engineer, from India</h2>
+
+###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nytin-rana/Nytin-rana/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Nytin-rana/Nytin-rana/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpucW1wNGdteTB6bDQ4ajZiZWxjM2owNXB0aWZoanpzdDI2dTVkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,5 +60,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Nytin-rana/Nytin-rana/snake-output/snake.svg" alt="Snake animation" />
 
 ###
