@@ -1,0 +1,44 @@
+# Text Animation Configuration
+# Inspired by: 2026-06-01-NYTIN-RANA-_1.gif
+# Theme Color: Claude Code Brand Palette
+
+animation:
+  name: "NYTIN RANA Pixel 3D"
+  type: "pixel-isometric-wave"
+  fps: 30
+  duration_seconds: 3.5
+  loop: true
+
+text_settings:
+  content: "NYTIN RANA"
+  font_family: "Pixel_7"
+  font_style: "isometric-3d"
+  font_size: "48pt"
+  letter_spacing: "4px"
+
+render_properties:
+  projection: "isometric"
+  extrusion_depth: 12
+  shadow_angle: 135
+  interpolation: "step-smooth"
+
+color_palette:
+  # Claude Code signature aesthetic colors
+  primary_fill: "#FFFFFF"       # Crisp white inner text fill
+  secondary_edge: "#191919"     # Deep charcoal pixel outlines
+  extrusion_3d: "#CC5A37"       # Claude Code signature clay/terracotta accent color
+  background: "transparent"     # Transparent background for flexible layering
+
+effects:
+  wave:
+    enabled: true
+    amplitude: 8
+    frequency: 0.15
+    phase_shift_per_frame: 0.05
+    stagger_per_letter: 0.25
+  glitch:
+    enabled: false
+  shimmer:
+    enabled: true
+    speed: 1.2
+    intensity: 0.15
