@@ -1,7 +1,12 @@
+<p align="center">
+  <img src=".github/workflows/intro.gif" alt="Nytin Rana Animation" width="50%">
+</p>
+
 <h2 align="left">Hi 👋! My name is Nitin Rana and I'm a iOS App Developer & AI ML Engineer, from India</h2>
 
 ###
 <div align="center">
+  
   <img src="https://raw.githubusercontent.com/Nytin-rana/Nytin-rana/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Nytin-rana/Nytin-rana/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
